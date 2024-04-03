@@ -6,4 +6,4 @@ This project aims to revolutionize disease identification in pearl millet using 
 
 By overcoming the limitations of conventional techniques, our CNN-based approach offers unparalleled accuracy in disease detection. Our model demonstrates exceptional performance, achieving a training accuracy of 99.89% and a testing accuracy of 99.59%. With the potential to transform disease management in pearl millet cultivation, our work contributes to enhancing food security and maximizing yields in vulnerable agricultural systems.
 
-We take dataset from https://doi.org/10.3390/s21165386 
+We Refer a Research paper https://doi.org/10.3390/s21165386 and authors make a dataset farmland of the Indian Council of Agricultural Research-All India Coordinated Research Project (ICAR (AICRP- Mysore center) and we use the dataset. That Dataset Avaliable in https://www.kaggle.com/datasets/kalpitgupta/blast-and-rust-compressed
